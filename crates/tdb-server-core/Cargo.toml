@@ -30,7 +30,7 @@ openssl-probe = "0.1.2"
 lazy_static = "1.4.0"
 
 tempdir = { optional = true, version = "0.3.7" }
-reqwest = { optional = true, version = "0.10.4" }
+reqwest = { optional = true, version = "0.10.8" }
 serde = { optional = true, version = "1.0.110" }
 config = { optional = true, version = "0.10.1" }
 time = { optional = true, version = "0.2.16" }
